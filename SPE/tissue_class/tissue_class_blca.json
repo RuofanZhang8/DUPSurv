@@ -1,0 +1,10 @@
+{
+    "Tumor Tissue":"Contains malignant urothelial cells often showing pleomorphism, increased nuclear-cytoplasmic ratio, hyperchromasia, and frequent mitotic figures. May exhibit architectural disorganization and invasive growth into surrounding tissues.",
+    "Normal Urothelium":"Composed of well-organized layers of urothelial cells, including basal, intermediate, and superficial umbrella cells. Cells have uniform nuclei and cytoplasm without atypia or mitotic activity.",
+    "Muscle Tissue":"Smooth muscle of the bladder wall appears as elongated cells with centrally located nuclei. It may show desmoplasia if infiltrated by tumor cells.",
+    "Stroma":"Composed of connective tissue, including fibroblasts, collagen, and extracellular matrix. May contain inflammatory cells and exhibit fibrosis or desmoplasia when reactive to tumor invasion.",
+    "Blood Vessels":"Lined by endothelial cells and surrounded by smooth muscle or pericytes. Increased vascular density or angiogenesis is often observed in tumor regions.",
+    "Lymphoid Aggregates":"Clusters of lymphocytes that are part of the immune response. These are common in the stromal regions near the tumor.",
+    "Necrotic Tissue":"Areas with cell death, often appearing as amorphous eosinophilic material with loss of nuclear details. Common in high-grade or advanced tumors.",
+    "Adipose Tissue":"Appears as clusters of adipocytes with clear cytoplasm and peripheral nuclei. May be seen in regions adjacent to the bladder wall or in cases with extensive tumor invasion."
+}
